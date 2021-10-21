@@ -9,4 +9,4 @@ Let's develop tools that are self-modifiable. That means, that their source code
 
 Generic code is not written by "very smart" coders, but evolves through many contributors and is measurably verified by its number of users.
 
-Generate docs and tickets from code comments - and code comments from docs and tickets.
+Generate docs and tickets from code comments - and code comments from docs and tickets (two-way tooling).
